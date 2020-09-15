@@ -8,7 +8,7 @@ A powercord plugin that requires you to double click voice channels to join them
 
 # Installation
 
--  `git clone https://github.com/hellbound1337/double-click-vc.git`
+-  `git clone https://github.com/hellboundthegod/double-click-vc.git`
 
 # Support
 
