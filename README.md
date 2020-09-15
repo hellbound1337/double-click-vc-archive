@@ -1,4 +1,4 @@
-# Double Click Voice Channels [![CodeFactor](https://www.codefactor.io/repository/github/hellboundthegod/double-click-vc/badge)](https://www.codefactor.io/repository/github/hellboundthegod/double-click-vc)
+# Double Click Voice Channels [![CodeFactor](https://www.codefactor.io/repository/github/hellbound1337/double-click-vc-archive/badge)](https://www.codefactor.io/repository/github/hellbound1337/double-click-vc-archive)
 
 A powercord plugin that requires you to double click voice channels to join them.
 
@@ -8,9 +8,4 @@ A powercord plugin that requires you to double click voice channels to join them
 
 # Installation
 
--  `git clone https://github.com/hellboundthegod/double-click-vc.git`
-
-# Support
-
--  hellbound#9999
--  Support Server: https://discord.gg/pCc7q4Z
+-  `git clone https://github.com/hellbound1337/double-click-vc-archive.git`
